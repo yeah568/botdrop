@@ -40,5 +40,10 @@
     }
   },
   "repository": "https://github.com/yeah568/botdrop.git",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "clapp": "^1.1.1",
+    "discord.js": "^11.0.0",
+    "fs-key-value": "^1.0.0"
+  }
 }
